@@ -1,1 +1,2 @@
-мастер->мастер in student
+мастер->мастер in studentмастер->feature
+new comand
